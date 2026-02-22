@@ -1,4 +1,5 @@
 An interactive Power BI dashboard analyzing sales performance, profitability trends, customer behavior, and payment insights across multiple states and product categories.
+
 🎯 Description / Purpose : 
 This project provides a comprehensive analysis of an e-commerce business using Power BI. The dashboard helps stakeholders monitor sales, profit trends, category performance, and customer contributions to support data-driven decision-making.
 The goal of this project is to transform raw sales data into actionable business insights through interactive visualizations and KPI tracking.
